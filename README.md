@@ -2,7 +2,7 @@
 
 **My name is Jon Henrik Åvitsland**
 
-I am currently learning frontend development and have recently finished my first year of school. 
+I am currently learning frontend development and are just about wrapping up my first year of school. 
 
 ## Checkout my Portfolio website and my socials.
 
