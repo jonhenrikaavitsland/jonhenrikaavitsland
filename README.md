@@ -9,7 +9,7 @@ My next goal is to learn more about SEO and digital marketing and find great way
 
 ## Checkout my Portfolio website and my socials.
 
-- [Portfolio(https://portfolio-jon-h.netlify.app/)
+- [Portfolio](https://portfolio-jon-h.netlify.app/)
 
 - [Linkedin](https://www.linkedin.com/in/jon-henrik-aavitsland-abaa872b7/)
 
